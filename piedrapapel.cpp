@@ -19,7 +19,6 @@ int main()
                 {
                     cout << b << "\n";
                     cout << "Usted ha ganado!!!!";
-                    break;
                 }
                 else
                 {
